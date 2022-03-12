@@ -13,7 +13,7 @@
   </p>
 </p>
 
-![Downloads](https://img.shields.io/github/downloads/rxveri/goox-linux/total) ![Contributors](https://img.shields.io/github/contributors/rxveri/goox-linux?color=dark-green) ![Forks](https://img.shields.io/github/forks/rxveri/goox-linux?style=social) ![Stargazers](https://img.shields.io/github/stars/rxveri/goox-linux?style=social) ![Issues](https://img.shields.io/github/issues/rxveri/goox-linux) ![License](https://img.shields.io/github/license/rxveri/goox-linux) 
+![Downloads](https://img.shields.io/github/downloads/gooxlinux/goox-linux/total) ![Contributors](https://img.shields.io/github/contributors/gooxlinux/goox-linux?color=dark-green) ![Forks](https://img.shields.io/github/forks/gooxlinux/goox-linux?style=social) ![Stargazers](https://img.shields.io/github/stars/gooxlinux/goox-linux?style=social) ![Issues](https://img.shields.io/github/issues/gooxlinux/goox-linux) ![License](https://img.shields.io/github/license/gooxlinux/goox-linux) 
 
 ## Table Of Contents
 
