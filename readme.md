@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/rxveri/goox-linux">
-    <img src="https://files.catbox.moe/cinqsy.png" alt="Logo" width="80" height="80">
+    <img src="https://files.catbox.moe/on1byv.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Goox Linux</h3>
